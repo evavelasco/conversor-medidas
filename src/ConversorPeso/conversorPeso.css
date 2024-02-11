@@ -1,0 +1,37 @@
+.conversor-peso {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.conversor-peso h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.conversor-peso input[type="number"],
+.conversor-peso select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.conversor-peso div {
+  margin-top: 10px;
+}
+
+.conversor-peso ul {
+  list-style: none;
+  padding: 0;
+}
+
+.conversor-peso ul li {
+  margin-bottom: 5px;
+}

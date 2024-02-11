@@ -1,0 +1,37 @@
+.conversor-temperatura {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  margin: 20px auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+.conversor-temperatura h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.conversor-temperatura input[type="number"],
+.conversor-temperatura select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.conversor-temperatura div {
+  margin-top: 10px;
+}
+
+.conversor-temperatura ul {
+  list-style: none;
+  padding: 0;
+}
+
+.conversor-temperatura ul li {
+  margin-bottom: 5px;
+}
